@@ -1,0 +1,3 @@
+fcgiwrap
+python3-*
+nginx
